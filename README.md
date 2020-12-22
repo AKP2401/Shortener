@@ -1,5 +1,5 @@
 # Shortener
- URL Using TinyUrl in Python
+ URL Shortening Using TinyUrl in Python
 
 ## Requirements
 * pyperclip to copy to clipboard is needed 
